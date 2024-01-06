@@ -1,0 +1,1 @@
+In this case study, I will perform as a junior data analyst working on the marketing analyst team at Cyclistic, in order to maximize the number of annual memberships, I will follow the steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
